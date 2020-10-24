@@ -1,12 +1,17 @@
 ﻿using System;
+using System.ComponentModel.Design;
 using System.Runtime.InteropServices.ComTypes;
 
 namespace Reuniune
 {
+    /// <summary>
+    /// Operatii cu multimi in 2 metode
+    /// </summary>
     class Program
     {
         static Random rnd = new Random();
-        static void Main(string[] args)
+
+        static void Metoda1()
         {
             int n, m;
             n = 8; m = 8;
@@ -15,6 +20,8 @@ namespace Reuniune
 
             A[0] = rnd.Next(5);
             B[0] = rnd.Next(5);
+            Console.WriteLine("Afisarea celor 2 multimi:");
+            Console.Write("A --> ");
 
             Console.Write(A[0] + " ");
 
@@ -24,6 +31,7 @@ namespace Reuniune
                 Console.Write(A[i] + " ");
             }
             Console.WriteLine();
+            Console.Write("B --> ");
 
             Console.Write(B[0] + " ");
             for (int i = 1; i < m; i++)
@@ -49,7 +57,7 @@ namespace Reuniune
                     }
                 }
             }
-
+            Console.WriteLine("Intersectia: ");
             for (int i = 0; i < idx; i++)
             {
                 Console.Write(C[i] + " ");
@@ -79,7 +87,7 @@ namespace Reuniune
                 }
             }
             Console.WriteLine();
-
+            Console.WriteLine("Reuniunea: ");
             for (int i = 0; i < idx; i++)
             {
                 Console.Write(C[i] + " ");
@@ -99,6 +107,7 @@ namespace Reuniune
             }
 
             Console.WriteLine();
+            Console.WriteLine("Concatenarea: ");
 
             for (int i = 0; i < idx; i++)
             {
@@ -125,6 +134,7 @@ namespace Reuniune
             }
 
             Console.WriteLine();
+            Console.WriteLine("A/B: ");
 
             for (int i = 0; i < idx; i++)
             {
@@ -151,6 +161,7 @@ namespace Reuniune
             }
 
             Console.WriteLine();
+            Console.WriteLine("B/A: ");
 
             for (int i = 0; i < idx; i++)
             {
@@ -194,6 +205,7 @@ namespace Reuniune
             }
 
             Console.WriteLine();
+            Console.WriteLine("Interclasarea: ");
 
             for (int i = 0; i < idx; i++)
             {
@@ -202,6 +214,83 @@ namespace Reuniune
 
 
             Console.ReadKey();
+        }
+
+        static void Metoda2()
+        {
+            //Cu vectori de frecventa
+            int n, m,p,q;
+            n = 8;
+            m = 8;
+            p = 30;
+            q = 30;
+            int[] A = new int[n];
+            int[] B = new int[m];
+            int[] C = new int[m + n];
+            int[] A1 = new int[p];
+            int[] B1 = new int[q];
+            A[0] = rnd.Next(5);
+            B[0] = rnd.Next(5);
+            Console.Write("Multimea A: ");
+            Console.Write(A[0]+" ");
+            for (int i=1;i<n;i++)
+            {
+                A[i] = rnd.Next(5) + A[i - 1] + 1;
+                Console.Write(A[i] + " ");
+            }
+            Console.WriteLine();
+            Console.Write("Multimea B: ");
+            Console.Write(B[0]+" ");
+            for (int i = 1; i < m; i++)
+            {
+                B[i] = rnd.Next(5) + B[i - 1] + 1;
+                Console.Write(B[i] + " ");
+            }
+
+            for(int i=0;i<p;i++)
+                A1[i] = 0;
+            
+            for (int i = 0; i < q; i++)
+                B1[i] = 0;
+
+            for (int i = 0; i < n; i++)
+                A1[A[i]]++;
+
+            for (int i = 0; i < m; i++)
+                B1[B[i]]++;
+            Console.WriteLine();
+
+            /*for (int i = 0; i < p; i++)
+                Console.Write(A1[i] + " ");
+            Console.WriteLine();
+            for (int i = 0; i < q; i++)
+                Console.Write(B1[i] + " ");*/
+            Console.WriteLine();
+            Console.WriteLine("Reuniunea: ");
+            for(int i=0;i<p;i++)
+            {
+                if (A1[i] != 0 || B1[i] != 0)
+                    Console.Write(i + " ");
+            }
+            Console.WriteLine();
+            Console.WriteLine("intersectia: ");
+            for (int i = 0; i < p; i++)
+            {
+                if (A1[i] != 0 && B1[i] != 0)
+                    Console.Write(i + " ");
+            }
+            Console.WriteLine();
+            Console.WriteLine("A/B: ");
+            for (int i = 0; i < p; i++)
+            {
+                if (A1[i] != 0 && B1[i] == 0)
+                    Console.Write(i + " ");
+            }
+        }
+        static void Main(string[] args)
+        {
+            //Metoda1();
+            //Metoda2();
 
         }
     }
