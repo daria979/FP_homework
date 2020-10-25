@@ -299,13 +299,13 @@ namespace Reuniune
             nr1 = a;
             nr2 = b;
             int cifre_a = 0, cifre_b = 0;
- 
-            while(a>0)
+
+            while (a > 0)
             {
                 cifre_a++;
                 a = a / 10;
             }
-            while (b> 0)
+            while (b > 0)
             {
                 cifre_b++;
                 b = b / 10;
@@ -313,16 +313,15 @@ namespace Reuniune
 
             int[] V1 = new int[cifre_a];
             int[] V2 = new int[cifre_b];
-            
-            
-            
 
-            for(int i = cifre_a-1; i>=0; i--)
+
+
+            for (int i = cifre_a - 1; i >= 0; i--)
             {
                 V1[i] = nr1 % 10;
                 nr1 = nr1 / 10;
             }
-            for (int i = cifre_b-1; i >=0; i--)
+            for (int i = cifre_b - 1; i >= 0; i--)
             {
                 V2[i] = nr2 % 10;
                 nr2 = nr2 / 10;
@@ -331,8 +330,7 @@ namespace Reuniune
             int max = 0;
             if (cifre_a == cifre_b)
             {
-                if (V1[0] + V2[0] >= 10)
-                    max = cifre_a + 1;
+                  max = cifre_a;
             }
             else
             {
@@ -341,10 +339,9 @@ namespace Reuniune
                 else
                     max = cifre_b;
             }
-
+           // Console.Write(max);
+           
             int[] Suma = new int[max];
-
-
 
             int n = V1.Length;
             int m = V2.Length;
@@ -352,38 +349,37 @@ namespace Reuniune
             //Console.Write(m);
             int[] Nr_new1 = new int[m];
             int[] Nr_new2 = new int[n];
-            if(n<m)
+
+            if (n < m)
             {
                 int k = m - n;
                 int x = k;
-                for(int i = 0 ; i < m ; i++)
+                for (int i = 0; i < m; i++)
                     if (i < k)
-                      Nr_new1[i] = 0;
+                        Nr_new1[i] = 0; //complectam cu 0 pozitiile
 
                 for (int i = 0; i < n; i++)
                     Nr_new1[x++] = V1[i];
-                 
-                for (int i=max-1;i>=0;i--)
+
+
+                int t = 0;
+                for (int i = 0; i < max; i++)
                 {
-                    bool ok=false; bool okg = false;
-                    if((Nr_new1[i]+V2[i])>9)
-                    {
-                        Suma[i] = (Nr_new1[i] + V2[i]) % 10;
-                        ok = true;
-                    }
-                   
-                    else
-                    {
-                        Suma[i] = (Nr_new1[i] + V2[i]) ;
-                        if (okg == false)
-                            Suma[i]++;
-                    }
-                    if(ok && i!=max-1)
-                    {
-                        Suma[i]++s;
-                        okg = true;
-                    }
+
+                    Suma[i] = Nr_new1[i] + V2[i] + t;
+
+                    t = Suma[i] / 10;        //transportul pentru urmatoarea adunare
+
+                    Suma[i] = Suma[i] % 10;  //pastram doar ultima cifra a sumei
+                                            
                 }
+                //daca la sfarsit avem transport diferit de zero il adagam la suma
+
+                if (t > 0)
+
+                    Suma[max++] = t;
+
+
             }
             else
             {
@@ -396,47 +392,59 @@ namespace Reuniune
                 for (int i = 0; i < m; i++)
                     Nr_new2[x++] = V2[i];
 
-                for (int i = max - 1; i >= 0; i--)
+                int t = 0; 
+                for (int i=0;i < max; i++)
                 {
-                    bool ok = true;
-                    if ((Nr_new2[i] + V1[i]) > 9)
-                    {
-                        Suma[i] = (Nr_new2[i] + V1[i]) % 10;
-                        ok = true;
-                    }
-                    else
-                    {
-                        Suma[i] = (Nr_new2[i] + V1[i]);
 
-                    }
-                    if (ok & i != max - 1)
-                    {
-                        Suma[i]++;
+                    Suma[i] = Nr_new2[i] + V1[i] + t;
 
-                    }
+                    t = Suma[i] / 10;        //transportul pentru urmatoarea adunare
+
+                    Suma[i] = Suma[i] % 10;  //pastram doar ultima cifra a sumei
+
                 }
+
+                //daca la sfarsit avem transport diferit de zero il adagam la suma
+
+                if (t > 0)
+
+                    Suma[max++]= t;
+                
+
             }
-            for (int i = 0; i < n; i++)
-                Console.Write(Nr_new2[i] + " ");
-            Console.WriteLine();
-            for (int i = 0; i < n; i++)
-                Console.Write(V1[i] + " ");
-            Console.WriteLine();
 
+            if (n == m)
+            {
+                int t = 0;
+                for (int i = 0; i < max; i++)
+                {
 
-            for (int i = 0; i <max ; i++)
+                    Suma[i] = V2[i] + V1[i] + t;
+
+                    t = Suma[i] / 10;        //transportul pentru urmatoarea adunare
+
+                    Suma[i] = Suma[i] % 10;  //pastram doar ultima cifra a sumei
+
+                }
+
+                //daca la sfarsit avem transport diferit de zero il adagam la suma
+
+                if (t > 0)
+
+                    Suma[max++] = t;
+
+            }
+            
+            for (int i = 0; i < max; i++)
                 Console.Write(Suma[i] + " ");
-            Console.WriteLine();
-            
-            
+
 
         }
         static void Main(string[] args)
         {
-            //Metoda1();
-            //Metoda2();
             Tema();
-
         }
+
     }
+    
 }
