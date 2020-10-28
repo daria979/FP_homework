@@ -1,8 +1,9 @@
 ﻿using System;
-using System.Collections.Specialized;
-using System.ComponentModel.Design;
-using System.Diagnostics.Eventing.Reader;
-using System.Runtime.InteropServices.ComTypes;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Reuniune
 {
@@ -330,7 +331,7 @@ namespace Reuniune
             int max = 0;
             if (cifre_a == cifre_b)
             {
-                  max = cifre_a;
+                max = cifre_a;
             }
             else
             {
@@ -339,8 +340,8 @@ namespace Reuniune
                 else
                     max = cifre_b;
             }
-           // Console.Write(max);
-           
+            // Console.Write(max);
+
             int[] Suma = new int[max];
 
             int n = V1.Length;
@@ -362,22 +363,18 @@ namespace Reuniune
                     Nr_new1[x++] = V1[i];
 
 
-                int t = 0;
+                
                 for (int i = 0; i < max; i++)
                 {
 
-                    Suma[i] = Nr_new1[i] + V2[i] + t;
+                    Suma[i] = (Nr_new1[i] + V2[i])% 10;
 
-                    t = Suma[i] / 10;        //transportul pentru urmatoarea adunare
+                    
 
-                    Suma[i] = Suma[i] % 10;  //pastram doar ultima cifra a sumei
-                                            
                 }
-                //daca la sfarsit avem transport diferit de zero il adagam la suma
+                
 
-                if (t > 0)
-
-                    Suma[max++] = t;
+                
 
 
             }
@@ -392,59 +389,57 @@ namespace Reuniune
                 for (int i = 0; i < m; i++)
                     Nr_new2[x++] = V2[i];
 
-                int t = 0; 
-                for (int i=0;i < max; i++)
+                
+                for (int i = 0; i < max; i++)
                 {
 
-                    Suma[i] = Nr_new2[i] + V1[i] + t;
+                    Suma[i] = (Nr_new2[i] + V1[i]) % 10;
 
-                    t = Suma[i] / 10;        //transportul pentru urmatoarea adunare
-
-                    Suma[i] = Suma[i] % 10;  //pastram doar ultima cifra a sumei
-
+                   
                 }
+                
 
                 //daca la sfarsit avem transport diferit de zero il adagam la suma
 
-                if (t > 0)
 
-                    Suma[max++]= t;
-                
+
 
             }
 
             if (n == m)
             {
-                int t = 0;
+                
                 for (int i = 0; i < max; i++)
                 {
 
-                    Suma[i] = V2[i] + V1[i] + t;
+                    Suma[i] = (V2[i] + V1[i]) % 10 ;
 
-                    t = Suma[i] / 10;        //transportul pentru urmatoarea adunare
-
-                    Suma[i] = Suma[i] % 10;  //pastram doar ultima cifra a sumei
-
+                   
                 }
 
                 //daca la sfarsit avem transport diferit de zero il adagam la suma
 
-                if (t > 0)
-
-                    Suma[max++] = t;
+                
 
             }
-            
+
             for (int i = 0; i < max; i++)
-                Console.Write(Suma[i] + " ");
+                Console.Write(Suma[i] + " "); 
+
 
 
         }
+
+
         static void Main(string[] args)
         {
             Tema();
         }
-
     }
-    
+
 }
+     
+        
+           
+      
+    
