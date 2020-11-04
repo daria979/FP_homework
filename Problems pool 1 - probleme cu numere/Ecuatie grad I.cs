@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Problems_pool_1___probleme_cu_numere
 {
-    class Program
+    class Ecuatie_grad_I
     {
         /// <summary>
         /// Rezolvati ecuatia de gradul 1 cu o necunoscuta: ax+b = 0, 
         /// unde a si b sunt date de intrare.
         /// </summary>
         /// <param name="args"></param>
-        static void Main(string[] args)
+         static void Main(string[] args)
         {
             float a, b, x;
 
