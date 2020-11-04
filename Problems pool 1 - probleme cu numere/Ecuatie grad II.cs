@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Problems_pool_1___probleme_cu_numere
 {
-    class Class1
+    class Ecuatie_gradul_II
     {
         /// <summary>
         /// Rezolvati ecuatia de gradul 2 cu o necunoscuta: ax^2 + bx + c = 0, 
@@ -24,7 +24,7 @@ namespace Problems_pool_1___probleme_cu_numere
             Console.Write("Introduceti un numar c: ");
             c = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Ecuatia de gradul II formata este: " + Math.Sign(a)*Math.Abs(a)+"x^2 "+ Math.Sign(b) * Math.Abs(b) + "x "+Math.Sign(c) * Math.Abs(c));
+            Console.WriteLine("Ecuatia de gradul II formata este: " + Math.Sign(a) * Math.Abs(a) + "x^2 " + Math.Sign(b) * Math.Abs(b) + "x " + Math.Sign(c) * Math.Abs(c));
             Console.WriteLine();
 
             delta = Math.Sqrt(b * b - 4 * a * c); //sqrt accepta doar tipul de data double
@@ -33,7 +33,7 @@ namespace Problems_pool_1___probleme_cu_numere
             x2 = (-b + delta) / (2 * a * c);
             x1 = Math.Round(x1, 2);
             x2 = Math.Round(x2, 2);
-           
+
             if (delta > 0)
             {
                 Console.WriteLine($"Solutiile x1 si x2 apartin lui R si sunt diferite: x1 = {x1} si x2 = {x2}");
@@ -41,20 +41,20 @@ namespace Problems_pool_1___probleme_cu_numere
             }
             else
             {
-                if(delta<0)
+                if (delta < 0)
                 {
                     Console.WriteLine($"Solutiile x1 si x2 NU apartin lui R, ci lui C, deci, nu pot fi determinate pe multimea R");
                     Console.WriteLine();
                 }
                 else
                 {
-                    if (delta==0)
+                    if (delta == 0)
                     {
                         Console.WriteLine($"Solutiile x1 si x2 apartin lui R si sunt egale: x1 = {x1} si x2 = {x2}");
                         Console.WriteLine();
                     }
                 }
-                
+
             }
 
             Console.ReadKey();
