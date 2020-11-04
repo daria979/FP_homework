@@ -1,0 +1,7 @@
+C:\Users\Daria\source\repos\FP_homework\Problems pool 1 - probleme cu numere\bin\Debug\Problems pool 1 - probleme cu numere.exe.config
+C:\Users\Daria\source\repos\FP_homework\Problems pool 1 - probleme cu numere\bin\Debug\Problems pool 1 - probleme cu numere.exe
+C:\Users\Daria\source\repos\FP_homework\Problems pool 1 - probleme cu numere\bin\Debug\Problems pool 1 - probleme cu numere.pdb
+C:\Users\Daria\source\repos\FP_homework\Problems pool 1 - probleme cu numere\obj\Debug\Problems pool 1 - probleme cu numere.csprojAssemblyReference.cache
+C:\Users\Daria\source\repos\FP_homework\Problems pool 1 - probleme cu numere\obj\Debug\Problems pool 1 - probleme cu numere.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\FP_homework\Problems pool 1 - probleme cu numere\obj\Debug\Problems pool 1 - probleme cu numere.exe
+C:\Users\Daria\source\repos\FP_homework\Problems pool 1 - probleme cu numere\obj\Debug\Problems pool 1 - probleme cu numere.pdb
