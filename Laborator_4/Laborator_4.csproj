@@ -32,9 +32,15 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,11 +50,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Arie minima.cs" />
+    <Compile Include="Distanta minima draw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Distanta minima draw.Designer.cs">
+      <DependentUpon>Distanta minima draw.cs</DependentUpon>
+    </Compile>
     <Compile Include="Distanta minima.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Distanta minima draw.resx">
+      <DependentUpon>Distanta minima draw.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

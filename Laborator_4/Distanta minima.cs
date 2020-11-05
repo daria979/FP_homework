@@ -30,7 +30,7 @@ namespace Laborator_4
             return (float)Math.Sqrt((A.x - B.x) * (A.x - B.x) + (A.y - B.y) * (A.y - B.y));
         }
 
-        static void Main(string[] args)
+        private void Main(string[] args) //static main
         {
             int n = 23;
             Point[] V = new Point[n];

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Laborator_4
 {
-    class Program
+    class Arie_minima
     {
         static Random rnd = new Random();
         static int resx = 1000;
@@ -29,7 +29,7 @@ namespace Laborator_4
         {
             return 0.5f * Math.Abs((A.x * B.y) + (B.x * C.y) + (C.x * A.y) - (C.x * B.y) - (A.x * C.y) - (A.y - B.x));
         }
-        static void Main(string[] args)
+        private void Main(string[] args) //nu uita sa schimbi in static
         {
             int n = 23;
             Point[] p = new Point[n];

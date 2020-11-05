@@ -1,7 +1,9 @@
-C:\Users\Daria\source\repos\FP_homework\Laborator_4\bin\Debug\Laborator_4.exe.config
-C:\Users\Daria\source\repos\FP_homework\Laborator_4\bin\Debug\Laborator_4.exe
 C:\Users\Daria\source\repos\FP_homework\Laborator_4\bin\Debug\Laborator_4.pdb
 C:\Users\Daria\source\repos\FP_homework\Laborator_4\obj\Debug\Laborator_4.csprojAssemblyReference.cache
 C:\Users\Daria\source\repos\FP_homework\Laborator_4\obj\Debug\Laborator_4.csproj.CoreCompileInputs.cache
-C:\Users\Daria\source\repos\FP_homework\Laborator_4\obj\Debug\Laborator_4.exe
 C:\Users\Daria\source\repos\FP_homework\Laborator_4\obj\Debug\Laborator_4.pdb
+C:\Users\Daria\Source\Repos\FP_homework\Laborator_4\obj\Debug\Laborator_4.Distanta_minima_draw.resources
+C:\Users\Daria\Source\Repos\FP_homework\Laborator_4\obj\Debug\Laborator_4.csproj.GenerateResource.cache
+C:\Users\Daria\Source\Repos\FP_homework\Laborator_4\bin\Debug\Laborator_4.exe.config
+C:\Users\Daria\Source\Repos\FP_homework\Laborator_4\bin\Debug\Laborator_4.exe
+C:\Users\Daria\Source\Repos\FP_homework\Laborator_4\obj\Debug\Laborator_4.exe
