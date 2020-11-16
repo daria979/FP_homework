@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Problems_pool_1___probleme_cu_numere.Ecuatie_gradul_II</StartupObject>
+    <StartupObject>Problems_pool_1___probleme_cu_numere.abcde_Crescator</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,8 +46,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="abcde_Crescator.cs" />
+    <Compile Include="abcTriunghi.cs" />
+    <Compile Include="abc_Crescator.cs" />
+    <Compile Include="AnBisect.cs" />
+    <Compile Include="AniBisectiInterval.cs" />
+    <Compile Include="CifInv.cs" />
+    <Compile Include="DivizoriN.cs" />
     <Compile Include="Ecuatie grad I.cs" />
     <Compile Include="Ecuatie gradul II.cs" />
+    <Compile Include="InversareValori.cs" />
+    <Compile Include="Inversare_FARA_aux.cs" />
+    <Compile Include="K_cifra_final.cs" />
+    <Compile Include="NrDivInterval.cs" />
+    <Compile Include="n_divide_k.cs" />
+    <Compile Include="N_Prim.cs" />
+    <Compile Include="Palindrom.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
