@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Problems_pool_1___probleme_cu_numere.abcde_Crescator</StartupObject>
+    <StartupObject>Problems_pool_1___probleme_cu_numere.Fractie_periodica</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,15 +46,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="2Cif_repeat.cs" />
     <Compile Include="abcde_Crescator.cs" />
     <Compile Include="abcTriunghi.cs" />
     <Compile Include="abc_Crescator.cs" />
     <Compile Include="AnBisect.cs" />
     <Compile Include="AniBisectiInterval.cs" />
     <Compile Include="CifInv.cs" />
+    <Compile Include="cmmdc_cmmmc.cs" />
     <Compile Include="DivizoriN.cs" />
     <Compile Include="Ecuatie grad I.cs" />
     <Compile Include="Ecuatie gradul II.cs" />
+    <Compile Include="Factori_primi.cs" />
+    <Compile Include="Fractie_periodica.cs" />
     <Compile Include="InversareValori.cs" />
     <Compile Include="Inversare_FARA_aux.cs" />
     <Compile Include="K_cifra_final.cs" />
