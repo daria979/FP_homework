@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Laborator_6
+namespace test
 {
-    static class Program
+    static class Aplicatie_efecte_imagine
     {
         /// <summary>
         /// The main entry point for the application.

@@ -1,0 +1,17 @@
+E:\Carina\test\test\bin\Debug\test.exe
+E:\Carina\test\test\bin\Debug\test.pdb
+E:\Carina\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+E:\Carina\test\test\obj\Debug\test.Form1.resources
+E:\Carina\test\test\obj\Debug\test.Properties.Resources.resources
+E:\Carina\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+E:\Carina\test\test\obj\Debug\test.exe
+E:\Carina\test\test\obj\Debug\test.pdb
+C:\Users\Daria\Desktop\FACULTATE\Fundamentele programarii\Exercitii, teme, etc\lab_6\test\test\bin\Debug\test.exe
+C:\Users\Daria\Desktop\FACULTATE\Fundamentele programarii\Exercitii, teme, etc\lab_6\test\test\bin\Debug\test.pdb
+C:\Users\Daria\Desktop\FACULTATE\Fundamentele programarii\Exercitii, teme, etc\lab_6\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Daria\Desktop\FACULTATE\Fundamentele programarii\Exercitii, teme, etc\lab_6\test\test\obj\Debug\test.Form1.resources
+C:\Users\Daria\Desktop\FACULTATE\Fundamentele programarii\Exercitii, teme, etc\lab_6\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Daria\Desktop\FACULTATE\Fundamentele programarii\Exercitii, teme, etc\lab_6\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Daria\Desktop\FACULTATE\Fundamentele programarii\Exercitii, teme, etc\lab_6\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Desktop\FACULTATE\Fundamentele programarii\Exercitii, teme, etc\lab_6\test\test\obj\Debug\test.exe
+C:\Users\Daria\Desktop\FACULTATE\Fundamentele programarii\Exercitii, teme, etc\lab_6\test\test\obj\Debug\test.pdb
