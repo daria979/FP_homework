@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8B238AD7-C45E-4770-A4B2-6CC123476DB3}</ProjectGuid>
+    <ProjectGuid>{7680CC1F-3475-44AC-8446-09403988F377}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Problems_pool_1___probleme_cu_numere</RootNamespace>
-    <AssemblyName>Problems pool 1 - probleme cu numere</AssemblyName>
+    <RootNamespace>Problems_pool_2___probleme_cu_secvente</RootNamespace>
+    <AssemblyName>Problems pool 2 - probleme cu secvente</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Problems_pool_1___probleme_cu_numere.Ghiceala_numar</StartupObject>
+    <StartupObject>Problems_pool_2___probleme_cu_secvente.Secv_Maxima_de_Consecutive</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,31 +46,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="2Cif_repeat.cs" />
-    <Compile Include="abcde_Crescator.cs" />
-    <Compile Include="abcTriunghi.cs" />
-    <Compile Include="abc_Crescator.cs" />
-    <Compile Include="AnBisect.cs" />
-    <Compile Include="AniBisectiInterval.cs" />
-    <Compile Include="CifInv.cs" />
-    <Compile Include="cmmdc_cmmmc.cs" />
-    <Compile Include="DivizoriN.cs" />
-    <Compile Include="Ecuatie grad I.cs" />
-    <Compile Include="Ecuatie gradul II.cs" />
-    <Compile Include="Factori_primi.cs" />
-    <Compile Include="Fractie_periodica.cs" />
-    <Compile Include="Ghiceala_numar.cs" />
-    <Compile Include="InversareValori.cs" />
-    <Compile Include="Inversare_FARA_aux.cs" />
-    <Compile Include="K_cifra_final.cs" />
-    <Compile Include="NrDivInterval.cs" />
-    <Compile Include="n_divide_k.cs" />
-    <Compile Include="N_Prim.cs" />
-    <Compile Include="Palindrom.cs" />
+    <Compile Include="CateSuntPare.cs" />
+    <Compile Include="Min_Max.cs" />
+    <Compile Include="Monotonie_secventa.cs" />
+    <Compile Include="Negative_Zero_Pozitive.cs" />
+    <Compile Include="Nnr_Fibonacci.cs" />
+    <Compile Include="Numar_egal_Pozitie.cs" />
+    <Compile Include="Pozitie_Secventa.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Secv_Crescatoare.cs" />
+    <Compile Include="Secv_Maxima_de_Consecutive.cs" />
+    <Compile Include="SsiP_1 la n.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Precizari.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

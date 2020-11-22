@@ -1,0 +1,7 @@
+C:\Users\Daria\Source\Repos\FP_homework\Problems pool 2 - probleme cu secvente\bin\Debug\Problems pool 2 - probleme cu secvente.exe.config
+C:\Users\Daria\Source\Repos\FP_homework\Problems pool 2 - probleme cu secvente\bin\Debug\Problems pool 2 - probleme cu secvente.exe
+C:\Users\Daria\Source\Repos\FP_homework\Problems pool 2 - probleme cu secvente\bin\Debug\Problems pool 2 - probleme cu secvente.pdb
+C:\Users\Daria\Source\Repos\FP_homework\Problems pool 2 - probleme cu secvente\obj\Debug\Problems pool 2 - probleme cu secvente.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Source\Repos\FP_homework\Problems pool 2 - probleme cu secvente\obj\Debug\Problems pool 2 - probleme cu secvente.exe
+C:\Users\Daria\Source\Repos\FP_homework\Problems pool 2 - probleme cu secvente\obj\Debug\Problems pool 2 - probleme cu secvente.pdb
+C:\Users\Daria\Source\Repos\FP_homework\Problems pool 2 - probleme cu secvente\obj\Debug\Problems pool 2 - probleme cu secvente.csprojAssemblyReference.cache

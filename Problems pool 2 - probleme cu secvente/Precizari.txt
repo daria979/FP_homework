@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Problems_pool_2___probleme_cu_secvente
+{
+    class Precizari
+    {
+        Precizari: 
+        
+        1. Toate aceste probleme se vor rezolva fara a folosi vectori/tablouri. 
+        2. Problemele se vor rezolva in C#.
+
+    }
+}
