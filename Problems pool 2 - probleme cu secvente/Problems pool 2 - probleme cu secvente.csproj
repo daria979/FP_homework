@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Problems_pool_2___probleme_cu_secvente.Secv_Maxima_de_Consecutive</StartupObject>
+    <StartupObject>Problems_pool_2___probleme_cu_secvente.Rotire_crescatoare</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,9 +54,12 @@
     <Compile Include="Numar_egal_Pozitie.cs" />
     <Compile Include="Pozitie_Secventa.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rotire_crescatoare.cs" />
+    <Compile Include="Secvente_Nenule.cs" />
     <Compile Include="Secv_Crescatoare.cs" />
     <Compile Include="Secv_Maxima_de_Consecutive.cs" />
     <Compile Include="SsiP_1 la n.cs" />
+    <Compile Include="S_inverse.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
