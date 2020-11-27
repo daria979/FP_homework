@@ -1,0 +1,7 @@
+C:\Users\Daria\Source\Repos\FP_homework\Laborator 7\obj\Debug\Laborator 7.csprojAssemblyReference.cache
+C:\Users\Daria\Source\Repos\FP_homework\Laborator 7\obj\Debug\Laborator 7.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Source\Repos\FP_homework\Laborator 7\bin\Debug\Laborator 7.exe.config
+C:\Users\Daria\Source\Repos\FP_homework\Laborator 7\bin\Debug\Laborator 7.exe
+C:\Users\Daria\Source\Repos\FP_homework\Laborator 7\bin\Debug\Laborator 7.pdb
+C:\Users\Daria\Source\Repos\FP_homework\Laborator 7\obj\Debug\Laborator 7.exe
+C:\Users\Daria\Source\Repos\FP_homework\Laborator 7\obj\Debug\Laborator 7.pdb

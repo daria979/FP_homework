@@ -1,0 +1,7 @@
+C:\Users\Daria\Source\Repos\FP_homework\Laborator_6\test\obj\Debug\Aplicatie_imagine.csprojAssemblyReference.cache
+C:\Users\Daria\Source\Repos\FP_homework\Laborator_6\test\obj\Debug\test.Form1.resources
+C:\Users\Daria\Source\Repos\FP_homework\Laborator_6\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Daria\Source\Repos\FP_homework\Laborator_6\test\obj\Debug\Aplicatie_imagine.csproj.GenerateResource.cache
+C:\Users\Daria\Source\Repos\FP_homework\Laborator_6\test\obj\Debug\Aplicatie_imagine.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Source\Repos\FP_homework\Laborator_6\test\obj\Debug\test.exe
+C:\Users\Daria\Source\Repos\FP_homework\Laborator_6\test\obj\Debug\test.pdb
