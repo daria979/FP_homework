@@ -1,0 +1,8 @@
+E:\transformare\transformare\bin\Debug\transformare.exe
+E:\transformare\transformare\bin\Debug\transformare.pdb
+E:\transformare\transformare\obj\Debug\transformare.csprojResolveAssemblyReference.cache
+E:\transformare\transformare\obj\Debug\transformare.Form1.resources
+E:\transformare\transformare\obj\Debug\transformare.Properties.Resources.resources
+E:\transformare\transformare\obj\Debug\transformare.csproj.GenerateResource.Cache
+E:\transformare\transformare\obj\Debug\transformare.exe
+E:\transformare\transformare\obj\Debug\transformare.pdb
