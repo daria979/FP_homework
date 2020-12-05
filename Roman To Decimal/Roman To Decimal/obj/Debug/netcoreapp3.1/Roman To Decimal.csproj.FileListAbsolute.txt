@@ -1,0 +1,13 @@
+C:\Users\Daria\source\repos\daria979\FP_homework\Roman To Decimal\Roman To Decimal\bin\Debug\netcoreapp3.1\Roman To Decimal.exe
+C:\Users\Daria\source\repos\daria979\FP_homework\Roman To Decimal\Roman To Decimal\bin\Debug\netcoreapp3.1\Roman To Decimal.deps.json
+C:\Users\Daria\source\repos\daria979\FP_homework\Roman To Decimal\Roman To Decimal\bin\Debug\netcoreapp3.1\Roman To Decimal.runtimeconfig.json
+C:\Users\Daria\source\repos\daria979\FP_homework\Roman To Decimal\Roman To Decimal\bin\Debug\netcoreapp3.1\Roman To Decimal.runtimeconfig.dev.json
+C:\Users\Daria\source\repos\daria979\FP_homework\Roman To Decimal\Roman To Decimal\bin\Debug\netcoreapp3.1\Roman To Decimal.dll
+C:\Users\Daria\source\repos\daria979\FP_homework\Roman To Decimal\Roman To Decimal\bin\Debug\netcoreapp3.1\Roman To Decimal.pdb
+C:\Users\Daria\source\repos\daria979\FP_homework\Roman To Decimal\Roman To Decimal\obj\Debug\netcoreapp3.1\Roman To Decimal.csprojAssemblyReference.cache
+C:\Users\Daria\source\repos\daria979\FP_homework\Roman To Decimal\Roman To Decimal\obj\Debug\netcoreapp3.1\Roman To Decimal.AssemblyInfoInputs.cache
+C:\Users\Daria\source\repos\daria979\FP_homework\Roman To Decimal\Roman To Decimal\obj\Debug\netcoreapp3.1\Roman To Decimal.AssemblyInfo.cs
+C:\Users\Daria\source\repos\daria979\FP_homework\Roman To Decimal\Roman To Decimal\obj\Debug\netcoreapp3.1\Roman To Decimal.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\daria979\FP_homework\Roman To Decimal\Roman To Decimal\obj\Debug\netcoreapp3.1\Roman To Decimal.dll
+C:\Users\Daria\source\repos\daria979\FP_homework\Roman To Decimal\Roman To Decimal\obj\Debug\netcoreapp3.1\Roman To Decimal.pdb
+C:\Users\Daria\source\repos\daria979\FP_homework\Roman To Decimal\Roman To Decimal\obj\Debug\netcoreapp3.1\Roman To Decimal.genruntimeconfig.cache
