@@ -117,26 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="red-arrow-construction-PNG-Cliparts" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\red-arrow-construction-PNG-Cliparts.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="89124-angle-icons-text-wallpaper-desktop-computer-arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\89124-angle-icons-text-wallpaper-desktop-computer-arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="red-arrow-construction-PNG-Cliparts1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\red-arrow-construction-PNG-Cliparts1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="red-arrow-construction-PNG-Cliparts2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\red-arrow-construction-PNG-Cliparts2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="small-pencil-arrow-left-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\small-pencil-arrow-left-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

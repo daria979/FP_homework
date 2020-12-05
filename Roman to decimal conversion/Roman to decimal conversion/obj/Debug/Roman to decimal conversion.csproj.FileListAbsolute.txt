@@ -1,0 +1,10 @@
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Roman to decimal conversion\Roman to decimal conversion\bin\Debug\Roman to decimal conversion.exe.config
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Roman to decimal conversion\Roman to decimal conversion\bin\Debug\Roman to decimal conversion.exe
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Roman to decimal conversion\Roman to decimal conversion\bin\Debug\Roman to decimal conversion.pdb
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Roman to decimal conversion\Roman to decimal conversion\obj\Debug\Roman to decimal conversion.csprojAssemblyReference.cache
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Roman to decimal conversion\Roman to decimal conversion\obj\Debug\Roman_to_decimal_conversion.Form1.resources
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Roman to decimal conversion\Roman to decimal conversion\obj\Debug\Roman_to_decimal_conversion.Properties.Resources.resources
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Roman to decimal conversion\Roman to decimal conversion\obj\Debug\Roman to decimal conversion.csproj.GenerateResource.cache
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Roman to decimal conversion\Roman to decimal conversion\obj\Debug\Roman to decimal conversion.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Roman to decimal conversion\Roman to decimal conversion\obj\Debug\Roman to decimal conversion.exe
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Roman to decimal conversion\Roman to decimal conversion\obj\Debug\Roman to decimal conversion.pdb
