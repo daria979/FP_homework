@@ -101,5 +101,14 @@
   <ItemGroup>
     <None Include="Resources\small-pencil-arrow-left-icon.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ancient-Building-Icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laurel-roman-number-one-first-count-place-512.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

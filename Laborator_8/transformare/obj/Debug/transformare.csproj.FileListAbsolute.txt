@@ -6,3 +6,12 @@ E:\transformare\transformare\obj\Debug\transformare.Properties.Resources.resourc
 E:\transformare\transformare\obj\Debug\transformare.csproj.GenerateResource.Cache
 E:\transformare\transformare\obj\Debug\transformare.exe
 E:\transformare\transformare\obj\Debug\transformare.pdb
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_8\transformare\bin\Debug\transformare.exe
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_8\transformare\bin\Debug\transformare.pdb
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_8\transformare\obj\Debug\transformare.csprojAssemblyReference.cache
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_8\transformare\obj\Debug\transformare.Form1.resources
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_8\transformare\obj\Debug\transformare.Properties.Resources.resources
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_8\transformare\obj\Debug\transformare.csproj.GenerateResource.cache
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_8\transformare\obj\Debug\transformare.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_8\transformare\obj\Debug\transformare.exe
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_8\transformare\obj\Debug\transformare.pdb

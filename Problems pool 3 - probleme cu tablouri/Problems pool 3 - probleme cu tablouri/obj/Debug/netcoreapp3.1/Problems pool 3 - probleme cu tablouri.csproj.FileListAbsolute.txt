@@ -1,0 +1,13 @@
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Problems pool 3 - probleme cu tablouri\Problems pool 3 - probleme cu tablouri\bin\Debug\netcoreapp3.1\Problems pool 3 - probleme cu tablouri.exe
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Problems pool 3 - probleme cu tablouri\Problems pool 3 - probleme cu tablouri\bin\Debug\netcoreapp3.1\Problems pool 3 - probleme cu tablouri.deps.json
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Problems pool 3 - probleme cu tablouri\Problems pool 3 - probleme cu tablouri\bin\Debug\netcoreapp3.1\Problems pool 3 - probleme cu tablouri.runtimeconfig.json
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Problems pool 3 - probleme cu tablouri\Problems pool 3 - probleme cu tablouri\bin\Debug\netcoreapp3.1\Problems pool 3 - probleme cu tablouri.runtimeconfig.dev.json
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Problems pool 3 - probleme cu tablouri\Problems pool 3 - probleme cu tablouri\bin\Debug\netcoreapp3.1\Problems pool 3 - probleme cu tablouri.dll
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Problems pool 3 - probleme cu tablouri\Problems pool 3 - probleme cu tablouri\bin\Debug\netcoreapp3.1\Problems pool 3 - probleme cu tablouri.pdb
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Problems pool 3 - probleme cu tablouri\Problems pool 3 - probleme cu tablouri\obj\Debug\netcoreapp3.1\Problems pool 3 - probleme cu tablouri.csprojAssemblyReference.cache
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Problems pool 3 - probleme cu tablouri\Problems pool 3 - probleme cu tablouri\obj\Debug\netcoreapp3.1\Problems pool 3 - probleme cu tablouri.AssemblyInfoInputs.cache
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Problems pool 3 - probleme cu tablouri\Problems pool 3 - probleme cu tablouri\obj\Debug\netcoreapp3.1\Problems pool 3 - probleme cu tablouri.AssemblyInfo.cs
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Problems pool 3 - probleme cu tablouri\Problems pool 3 - probleme cu tablouri\obj\Debug\netcoreapp3.1\Problems pool 3 - probleme cu tablouri.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Problems pool 3 - probleme cu tablouri\Problems pool 3 - probleme cu tablouri\obj\Debug\netcoreapp3.1\Problems pool 3 - probleme cu tablouri.dll
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Problems pool 3 - probleme cu tablouri\Problems pool 3 - probleme cu tablouri\obj\Debug\netcoreapp3.1\Problems pool 3 - probleme cu tablouri.pdb
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Problems pool 3 - probleme cu tablouri\Problems pool 3 - probleme cu tablouri\obj\Debug\netcoreapp3.1\Problems pool 3 - probleme cu tablouri.genruntimeconfig.cache
