@@ -1,0 +1,10 @@
+C:\Users\Daria\source\repos\daria979\FP_homework\Sierpinski triunghi\Sierpinski triunghi\obj\Debug\Sierpinski triunghi.csprojAssemblyReference.cache
+C:\Users\Daria\source\repos\daria979\FP_homework\Sierpinski triunghi\Sierpinski triunghi\obj\Debug\Sierpinski_triunghi.Form1.resources
+C:\Users\Daria\source\repos\daria979\FP_homework\Sierpinski triunghi\Sierpinski triunghi\obj\Debug\Sierpinski_triunghi.Properties.Resources.resources
+C:\Users\Daria\source\repos\daria979\FP_homework\Sierpinski triunghi\Sierpinski triunghi\obj\Debug\Sierpinski triunghi.csproj.GenerateResource.cache
+C:\Users\Daria\source\repos\daria979\FP_homework\Sierpinski triunghi\Sierpinski triunghi\obj\Debug\Sierpinski triunghi.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\daria979\FP_homework\Sierpinski triunghi\Sierpinski triunghi\bin\Debug\Sierpinski triunghi.exe.config
+C:\Users\Daria\source\repos\daria979\FP_homework\Sierpinski triunghi\Sierpinski triunghi\bin\Debug\Sierpinski triunghi.exe
+C:\Users\Daria\source\repos\daria979\FP_homework\Sierpinski triunghi\Sierpinski triunghi\bin\Debug\Sierpinski triunghi.pdb
+C:\Users\Daria\source\repos\daria979\FP_homework\Sierpinski triunghi\Sierpinski triunghi\obj\Debug\Sierpinski triunghi.exe
+C:\Users\Daria\source\repos\daria979\FP_homework\Sierpinski triunghi\Sierpinski triunghi\obj\Debug\Sierpinski triunghi.pdb
