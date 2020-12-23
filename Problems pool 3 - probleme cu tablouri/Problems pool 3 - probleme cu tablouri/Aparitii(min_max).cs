@@ -12,7 +12,7 @@ namespace Problems_pool_3___probleme_cu_tablouri
         /// </summary>
         /// <param name="args"></param>
         /// 
-       
+        
         static void Main(string[] args)
         {
             Random rnd = new Random();
@@ -34,27 +34,22 @@ namespace Problems_pool_3___probleme_cu_tablouri
                 Console.Write($"{y} ");
                 v[i] = y;
                 if(v[i]<=min)
-                {
-                   
-                    
+                {   
                     if ( v[i]== min)
                     {
                         nr_aparitii1++;
                         //Console.WriteLine("daaa");
-                    }
-                        
+                    }       
                     else
                     {
                         nr_aparitii1 = 1;
                         min = v[i];
                     }
-                        
-                    
+     
                 }
                 if (v[i] >= max)
                 {
-                    
-                   
+
                     if ( v[i]== max)
                     {
                         nr_aparitii2++;
@@ -66,11 +61,8 @@ namespace Problems_pool_3___probleme_cu_tablouri
                         nr_aparitii2 = 1;
                         max = v[i];
                     }
-                        
-                    
+
                 }
-
-
             }
             Console.WriteLine();
             Console.WriteLine($"Minimul {min} apare de {nr_aparitii1} ori \n Maximul {max} apare de {nr_aparitii2} ori.");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daria\\source\\repos\\daria979\\FP_homework\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri.csproj": {}
+    "C:\\Users\\Daria\\Source\\Repos\\daria979\\FP_homework\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daria\\source\\repos\\daria979\\FP_homework\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri.csproj": {
+    "C:\\Users\\Daria\\Source\\Repos\\daria979\\FP_homework\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daria\\source\\repos\\daria979\\FP_homework\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri.csproj",
+        "projectUniqueName": "C:\\Users\\Daria\\Source\\Repos\\daria979\\FP_homework\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri.csproj",
         "projectName": "Problems pool 3 - probleme cu tablouri",
-        "projectPath": "C:\\Users\\Daria\\source\\repos\\daria979\\FP_homework\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri.csproj",
+        "projectPath": "C:\\Users\\Daria\\Source\\Repos\\daria979\\FP_homework\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri.csproj",
         "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daria\\source\\repos\\daria979\\FP_homework\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri\\obj\\",
+        "outputPath": "C:\\Users\\Daria\\Source\\Repos\\daria979\\FP_homework\\Problems pool 3 - probleme cu tablouri\\Problems pool 3 - probleme cu tablouri\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daria\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -39,6 +39,43 @@ namespace Problems_pool_2___probleme_cu_secvente
                         Max = x;
 
                 }
+
+                /*int  n,x=0, ap=1, app=1;
+            Console.WriteLine("Introduceti n= ");
+            n = int.Parse(Console.ReadLine());
+            
+            int max=0;
+            int min=0;
+            for (int i = 1; i <= n; i++)
+            {
+                x = int.Parse(Console.ReadLine());
+                if (x > max)
+                {
+                    max = x;
+                    ap = 1;
+                }
+                else
+
+                    if (x == max)
+                    {
+                    ap++;
+                    }
+                
+                    if (x < min)
+                    {
+                        min = x;
+                        app = 1;
+                    }
+                    else
+                    if (x == min)
+                    {
+                        app++;
+                    }
+                
+            }
+            Console.WriteLine($"Maximul este {max} si apare de {ap} ori");
+            Console.WriteLine($"Minimul este {min} si apare de {app} ori");
+            Console.ReadKey();*/
                 Console.WriteLine();
                 Console.WriteLine($"Valoarea minima din secventa data este: {Min}.");
                 Console.WriteLine($"Valoarea maxima din secventa data este: {Max}.");
