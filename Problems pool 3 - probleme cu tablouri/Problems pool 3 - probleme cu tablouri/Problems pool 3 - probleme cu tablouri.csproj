@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Problems_pool_3___probleme_cu_tablouri</RootNamespace>
-    <StartupObject>Problems_pool_3___probleme_cu_tablouri.Stergere_repetari</StartupObject>
+    <StartupObject>Problems_pool_3___probleme_cu_tablouri.Element_majoritate</StartupObject>
   </PropertyGroup>
 
 </Project>
