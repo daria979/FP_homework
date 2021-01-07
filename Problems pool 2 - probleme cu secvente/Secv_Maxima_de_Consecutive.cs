@@ -27,27 +27,27 @@ namespace Problems_pool_2___probleme_cu_secvente
                     throw new Exception("Nu ati introdus un numar !");
 
 
-                int nr_consecutive=0 ;
+                int nr_consecutive=1 ;
                 int Lungime_Max_secventa = 0;
 
-                int x = rnd.Next(11);
+                int x = rnd.Next(2);
 
                 Console.WriteLine("Secventa data este: ");
                 Console.Write($"{x} ");
                 for (int i = 0; i < n - 1; i++)
                 {
 
-                    int y = rnd.Next(11);
+                    int y = rnd.Next(2);
                     Console.Write($"{y} ");
 
-                    if (x < y && (y-x==1)) //conditia pt ca numerele sa fie consecutive
+                    if (x==y) //conditia pt ca numerele sa fie consecutive
                     {
                         nr_consecutive++;
                         if (nr_consecutive > Lungime_Max_secventa)
                             Lungime_Max_secventa = nr_consecutive;
                     }
                     else
-                        nr_consecutive = 0;
+                        nr_consecutive = 1;
 
 
                     x = y;

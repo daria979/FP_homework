@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Problems_pool_2___probleme_cu_secvente.Secv_Bitonica</StartupObject>
+    <StartupObject>Problems_pool_2___probleme_cu_secvente.Secv_Maxima_de_Consecutive</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
