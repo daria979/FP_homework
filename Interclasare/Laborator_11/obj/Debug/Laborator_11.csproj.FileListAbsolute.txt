@@ -1,0 +1,6 @@
+C:\Users\Daria\source\repos\daria979\FP_homework\Interclasare\Laborator_11\obj\Debug\Laborator_11.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\daria979\FP_homework\Interclasare\Laborator_11\bin\Debug\Laborator_11.exe.config
+C:\Users\Daria\source\repos\daria979\FP_homework\Interclasare\Laborator_11\bin\Debug\Laborator_11.exe
+C:\Users\Daria\source\repos\daria979\FP_homework\Interclasare\Laborator_11\bin\Debug\Laborator_11.pdb
+C:\Users\Daria\source\repos\daria979\FP_homework\Interclasare\Laborator_11\obj\Debug\Laborator_11.exe
+C:\Users\Daria\source\repos\daria979\FP_homework\Interclasare\Laborator_11\obj\Debug\Laborator_11.pdb
