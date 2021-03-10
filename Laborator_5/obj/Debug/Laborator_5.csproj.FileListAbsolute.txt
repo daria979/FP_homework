@@ -8,3 +8,13 @@ C:\Users\Daria\source\repos\FP_homework\Laborator_5\obj\Debug\Laborator_5.csproj
 C:\Users\Daria\source\repos\FP_homework\Laborator_5\obj\Debug\Laborator_5.csproj.CoreCompileInputs.cache
 C:\Users\Daria\source\repos\FP_homework\Laborator_5\obj\Debug\Laborator_5.exe
 C:\Users\Daria\source\repos\FP_homework\Laborator_5\obj\Debug\Laborator_5.pdb
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_5\bin\Debug\Laborator_5.exe.config
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_5\bin\Debug\Laborator_5.exe
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_5\bin\Debug\Laborator_5.pdb
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_5\obj\Debug\Laborator_5.csprojAssemblyReference.cache
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_5\obj\Debug\Laborator_5.Form1.resources
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_5\obj\Debug\Laborator_5.Properties.Resources.resources
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_5\obj\Debug\Laborator_5.csproj.GenerateResource.cache
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_5\obj\Debug\Laborator_5.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_5\obj\Debug\Laborator_5.exe
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_5\obj\Debug\Laborator_5.pdb

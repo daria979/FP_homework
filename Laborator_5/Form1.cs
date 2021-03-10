@@ -53,10 +53,10 @@ namespace Laborator_5
             return lungime;
         }
 
-        public float ariap(point A, point B, point C, point D)
+        public float ariap(point A, point B, point C)
         {
             point O = new point(0, 0);
-            float val = Aria(A, B, O) + Aria(B, C, O) + Aria(C, D, O) + Aria(D, A, O);
+            float val = Aria(A, B, O) + Aria(B, C, O);
             return Math.Abs(val);
         }
         private void Form1_Load(object sender, EventArgs e)
@@ -65,7 +65,7 @@ namespace Laborator_5
             grp = Graphics.FromImage(bmp);
             grp.Clear(Color.LightBlue);
 
-            int n = 30;
+            int n = 3;
             point[] p = new point[n];
             for (int i = 0; i < n; i++)
             {
@@ -73,39 +73,43 @@ namespace Laborator_5
                 p[i].draw(grp);
             }
 
-            float aria, ariaMaxima = ariap(p[0], p[1], p[2], p[3]);
+            float aria, ariaMaxima = ariap(p[0], p[1], p[2]);
 
 
-            int x1 = 0, x2 = 1, x3 = 2, x4 = 3;
+            int x1 = 0, x2 = 1, x3 = 2;// x4 = 3;
             for (int i1 = 0; i1 < n - 3; i1++)
             {
                 for (int i2 = i1 + 1; i2 < n - 2; i2++)
                 {
                     for (int i3 = i2 + 1; i3 < n - 1; i3++)
-                        for (int i4 = i3 + 1; i4 < n; i4++)
-                        {
-                            aria = ariap(p[i1], p[i2], p[i3], p[i4]);// ariap=aria poligonului
-                            if (aria > ariaMaxima)
-                            {
-                                ariaMaxima = aria;
-                                x1 = i1; x2 = i2; x3 = i3; x4 = i4;
-                            }
-                        }
+                    { 
+                        aria = ariap(p[i1], p[i2], p[i3]);// ariap=aria poligonului
+                    if (aria > ariaMaxima)
+                    {
+                        ariaMaxima = aria;
+                        x1 = i1; x2 = i2; x3 = i3; //x4 = i4;
+                    }
+                }   
                 }
             }
 
-            PointF[] t = new PointF[4];
+            PointF[] t = new PointF[3];
             t[0] = new PointF(p[x1].x, p[x1].y);
             t[1] = new PointF(p[x2].x, p[x2].y);
             t[2] = new PointF(p[x3].x, p[x3].y);
-            t[3] = new PointF(p[x4].x, p[x4].y);
+            //t[3] = new PointF(p[x4].x, p[x4].y);
             grp.FillPolygon(new SolidBrush(Color.Red), t);
             t[0] = new PointF(p[x1].x, p[x1].y);
             t[1] = new PointF(p[x3].x, p[x3].y);
             t[2] = new PointF(p[x2].x, p[x2].y);
-            t[3] = new PointF(p[x4].x, p[x4].y);
+            //t[3] = new PointF(p[x4].x, p[x4].y);
             grp.FillPolygon(new SolidBrush(Color.Red), t);
             pictureBox1.Image = bmp;
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

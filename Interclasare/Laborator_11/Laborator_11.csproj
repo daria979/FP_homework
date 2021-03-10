@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Laborator_11.Frecventa</StartupObject>
+    <StartupObject>UsingStack.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

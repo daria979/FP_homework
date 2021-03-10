@@ -102,5 +102,10 @@ namespace Laborator_4
             pictureBox1.Image = bmp;
             
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

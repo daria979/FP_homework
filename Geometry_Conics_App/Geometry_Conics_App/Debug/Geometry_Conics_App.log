@@ -1,0 +1,5 @@
+﻿  Geometry_Conics_App.cpp
+C:\Users\Daria\source\repos\daria979\FP_homework\Geometry_Conics_App\Geometry_Conics_App\Geometry_Conics_App.cpp(119,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daria\source\repos\daria979\FP_homework\Geometry_Conics_App\Geometry_Conics_App\Geometry_Conics_App.cpp(120,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daria\source\repos\daria979\FP_homework\Geometry_Conics_App\Geometry_Conics_App\Geometry_Conics_App.cpp(121,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Geometry_Conics_App.vcxproj -> C:\Users\Daria\source\repos\daria979\FP_homework\Geometry_Conics_App\Debug\Geometry_Conics_App.exe

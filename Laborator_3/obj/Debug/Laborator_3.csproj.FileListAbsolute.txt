@@ -5,3 +5,10 @@ C:\Users\Daria\source\repos\FP_homework\Laborator_3\bin\Debug\Laborator_3.exe
 C:\Users\Daria\source\repos\FP_homework\Laborator_3\bin\Debug\Laborator_3.pdb
 C:\Users\Daria\source\repos\FP_homework\Laborator_3\obj\Debug\Laborator_3.exe
 C:\Users\Daria\source\repos\FP_homework\Laborator_3\obj\Debug\Laborator_3.pdb
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_3\bin\Debug\Laborator_3.exe.config
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_3\bin\Debug\Laborator_3.exe
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_3\bin\Debug\Laborator_3.pdb
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_3\obj\Debug\Laborator_3.csprojAssemblyReference.cache
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_3\obj\Debug\Laborator_3.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_3\obj\Debug\Laborator_3.exe
+C:\Users\Daria\Source\Repos\daria979\FP_homework\Laborator_3\obj\Debug\Laborator_3.pdb
